@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DaGroo
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL
+- 👋 Hi, I’m @Daniel
+- 👀 I’m a Data Analyst
+- 🌱 Experinenced in Python, Excel, and PowerBi for data analytics 
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ...
 
